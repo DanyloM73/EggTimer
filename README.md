@@ -9,7 +9,7 @@
 
 *This project was developed as part of The Complete iOS App Development Bootcamp by London App Brewery*
 
-*Minimum supported OS version is 15.6*
+*Minimum supported OS version is 13.0*
 
 ## Illustrations
 
