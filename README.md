@@ -1,6 +1,6 @@
 # Egg Timer
 
-### A simple iOS/iPadOS with three operating modes, 5, 7 and 12 minutes
+### A simple iOS/iPadOS timer with three operating modes, 5, 7 and 12 minutes
 
 ## Used technologies and tools
 
