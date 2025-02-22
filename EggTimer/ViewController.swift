@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var infoLabel: UILabel!
     @IBOutlet weak var progressBar: UIProgressView!
     
-    let eggTimes = ["Soft": 5, "Medium": 7, "Hard": 12]
+    let eggTimes = ["Soft": 5*60, "Medium": 7*60, "Hard": 12*60]
     var timer: Timer?
     
     @IBAction func hardnessSelected(_ sender: UIButton) {

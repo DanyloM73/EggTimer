@@ -1,27 +1,22 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Egg Timer
 
-## Our Goal
+### A simple iOS/iPadOS with three operating modes, 5, 7 and 12 minutes
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+## Used technologies and tools
 
-## What You'll Make
+- Swift
+- UIKit
 
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+*This project was developed as part of The Complete iOS App Development Bootcamp by London App Brewery*
 
-## What you will learn
+*Minimum supported OS version is 15.6*
 
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
+## Illustrations
 
+### Timer working:
 
+<img src="Documentation/1.png" alt="Start screen" width="300">
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+### Timer finished:
 
-![End Banner](Documentation/readme-end-banner.png)
-
+<img src="Documentation/2.png" alt="Start screen" width="300">
